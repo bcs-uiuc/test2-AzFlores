@@ -8,21 +8,21 @@ will learn about in that project.
 <br>
 <br>
 
-####Project 1: Input and Output Your Favorite Musicians.
+#### Project 1: Input and Output Your Favorite Musicians.
 Description: In project 1, you will learn to write a simple program that will ask you to enter your three 
 favorite musicians. The program will then number them and print them out in the output window.
 
-#####Concepts:
+##### Concepts:
 - Creating and running a python script
 - Python Variables
 - Input from the Terminal
 - Output to the Terminal
 
-####Project 2: Reading in a List of Musicians and Song Titles from a File.
+#### Project 2: Reading in a List of Musicians and Song Titles from a File.
 Description: In project 1, you will learn to write a simple program that will ask you to enter your three 
 favorite musicians. The program will then number them and print them out in the output window.
 
-#####Concepts:
+##### Concepts:
 - Creating and running a python script
 - Python Variables
 - Input from the Terminal
