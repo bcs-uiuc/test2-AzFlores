@@ -13,13 +13,13 @@ each topic covered in the projects.
 favorite musicians. The program will then number them and print them out in the output window.
 <br><br>
 **Learning Objectives:**<br>
-1\) Creating and running a python script<br>
-2\) Creating and changing variables<br>
-3\) Input from the Terminal<br>
-4\) Output to the Terminal
+1\) Running python commands from the terminal<br>
+2\) Creating and running a python script<br>
+3\) Creating and changing variables<br>
+4\) Input from the Terminal<br>
+5\) Output to the Terminal
 <br><br>
 Go to Project 2.1
-<br><br>
 
 #### Project 2.2: Read in a list of musicians and song titles from a file.
 >**Description**: In project 2.2, you will learn to write a simple program that will ask you to enter your three 
@@ -31,7 +31,6 @@ favorite musicians. The program will then number them and print them out in the 
 3\) Output results to a new file
 <br><br>
 Go to Project 2.2
-<br><br>
 
 #### Project 2.3: Who was the is the most-listened to artist on Spotify in 2018?
 >**Description**: In project 2.3, you will start with two text files. File 1 has the ten most 
@@ -45,7 +44,6 @@ compute which artist had more overall listens.
 3\) Formatting 
 <br><br>
 Go to Project 2.3
-<br><br>
 
 #### Chapter 2 Topic Index
 > - Running a python script
