@@ -89,7 +89,7 @@ undiagnosed disability by visiting the DRES website and selecting “Sign-Up for
 at the bottom of the page.”
 
 ## 7. Class Schedule
-###Week 1
+<h4>Week 1</h4>
 **Topic:**<br>
 Course Overview<br>
 What Programming is Good For<br>
