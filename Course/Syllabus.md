@@ -89,22 +89,7 @@ undiagnosed disability by visiting the DRES website and selecting “Sign-Up for
 at the bottom of the page.”
 
 ## 7. Class Schedule
-####Week 1
-**Topic:**<br>
-Course Overview<br>
-What Programming is Good For<br>
-The Value of Simulation<br>
-Introduction to Python Basic Data Types and Expressions<br><br>
-**Readings:**<br><br>
-**Lab Assignments:**<br>
-Background Survey, Install Python 3, write some simple programs<br>
-Due by Jan 15 at 5:20pm<br><br>
-**Homework:**<br>
-Homework 1<br>
-Due by Jan 21 at 11:59pm
-
-####Week 1: 01/15 & 01/17<br>
-
+###Week 1
 **Topic:**<br>
 Course Overview<br>
 What Programming is Good For<br>
