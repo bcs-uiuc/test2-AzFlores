@@ -6,14 +6,15 @@ Room: Psychology 11<br>
 Tue/Thu 330pm - 520pm
 
 **Materials**<br>
-1\) Python Tutorial, by Bernd Klein. https://www.python-course.eu/python3_course.php.<br>
-2\) Think Python: How to Think Like a Computer Scientist (TP). Free Online Book http://interactivepython.org/runestone/static/thinkcspy/index.html#<br>
-3\) Braitenburg, V. (1984). Vehicles: Experiments in Synthetic Psychology. MIT Press.<br>
-4\) Course Github Page: https://github.com/jonwillits/python_for_bcs 
+1\) Python Tutorial #1 (PT). https://www.python-course.eu/python3_course.php.<br>
+2\) Python Tutorial #2 (PT). https://www.w3schools.com/python/python_intro.asp<br>
+3\) Think Python (TP). http://interactivepython.org/runestone/static/thinkcspy/index.html<br>
+4\) Vehicles (V). Braitenburg, V. (1984). MIT Press.<br>
+5\) Course Github Page: https://github.com/jonwillits/python_for_bcs 
 
 **Instructor**<br>
 Dr. Jon A. Willits<br>
-Assistant Professor of Psychology<br>
+Assistant Professor of Psychology<br> 
 University of Illinois at Urbana Champaign<br>
 Email: jwillits@illinois.edu<br>
 Website: http://www.psychology.illinois.edu/people/jwillits<br>
@@ -88,7 +89,7 @@ undiagnosed disability by visiting the DRES website and selecting “Sign-Up for
 at the bottom of the page.”
 
 ## 7. Class Schedule
-####W%%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      eek 1
+####Week 1
 **Topic:**<br>
 Course Overview<br>
 What Programming is Good For<br>
@@ -101,3 +102,78 @@ Due by Jan 15 at 5:20pm<br><br>
 **Homework:**<br>
 Homework 1<br>
 Due by Jan 21 at 11:59pm
+
+####Week 1: 01/15 & 01/17<br>
+
+**Topic:**<br>
+Course Overview<br>
+What Programming is Good For<br>
+The Value of Simulation<br>
+Introduction to Python Basic Data Types and Expressions<br><br>
+**Readings:**<br><br>
+**Lab Assignments:**<br>
+Background Survey, Install Python 3, write some simple programs<br>
+Due by Jan 15 at 5:20pm<br><br>
+**Homework:**<br>
+Homework 1<br>
+Due by Jan 21 at 11:59pm
+
+####Week 2: 01/22 & 01/24<br>
+**Topic:**<br>
+Course Overview<br>
+What Programming is Good For<br>
+The Value of Simulation<br>
+Introduction to Python Basic Data Types and Expressions<br><br>
+**Readings:**<br><br>
+**Lab Assignments:**<br>
+Background Survey, Install Python 3, write some simple programs<br>
+Due by Jan 15 at 5:20pm<br><br>
+**Homework:**<br>
+Homework 1<br>
+Due by Jan 21 at 11:59pm
+
+####Week 3
+Info Coming Soon
+
+####Week 4
+Info Coming Soon
+
+####Week 5
+Info Coming Soon
+
+####Week 6
+Info Coming Soon
+
+####Week 7
+Info Coming Soon
+
+####Week 8
+Info Coming Soon
+
+####Week 9
+Info Coming Soon
+
+####Week 10
+Info Coming Soon
+
+####Spring Break
+March 16-24
+
+####Week 11
+Info Coming Soon
+
+####Week 12
+Info Coming Soon
+
+####Week 13
+Info Coming Soon
+
+####Week 14
+Info Coming Soon
+
+####Week 15: 05/03
+Info Coming Soon
+
+####Finals Exam Date: 05/03
+8:00am - 11:00am
+Final Project Presentations
