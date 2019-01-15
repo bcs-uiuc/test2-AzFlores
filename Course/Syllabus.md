@@ -101,7 +101,7 @@ Background Survey, Install Python 3, write some simple programs<br>
 Due by Jan 15 at 5:20pm<br><br>
 **Homework:**<br>
 Homework 1<br>
-Due by Jan 21 at 11:59pm
+Due by Jan 21 at 11:59pm<br><br>
 
 ####Week 2: 01/22 & 01/24<br>
 Info Coming Soon
