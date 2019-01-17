@@ -19,13 +19,13 @@ University of Illinois at Urbana Champaign<br>
 Email: jwillits@illinois.edu<br>
 Website: http://www.psychology.illinois.edu/people/jwillits<br>
 Office Location: Psychology 811<br>
-Office Hours: Thursday 330pm-430pm
+Office Hours: Thursday 230pm-430pm
 
 **Teaching Assistant**<br>
 Andrew Flores<br>
 Email: azf2@illinois.edu<br>
 Office Location: Psychology 832<br>
-Office Hours: Tuesday 330pm-430pm
+Office Hours: Tuesday 230pm-430pm
 
 ## 2. Course Description and Learning Objectives
 Programming for Cognitive Science has three primary learning objectives: 
