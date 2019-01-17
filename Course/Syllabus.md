@@ -6,8 +6,8 @@ Room: Psychology 11<br>
 Tue/Thu 330pm - 520pm
 
 **Materials**<br>
-1\) Python Tutorial #1 (PT). https://www.python-course.eu/python3_course.php.<br>
-2\) Python Tutorial #2 (PT). https://www.w3schools.com/python/python_intro.asp<br>
+1\) Python Tutorial #1 (PT1). https://www.w3schools.com/python/python_intro.asp<br>
+2\) Python Tutorial #2 (PT2). https://www.python-course.eu/python3_course.php.<br>
 3\) Think Python (TP). http://interactivepython.org/runestone/static/thinkcspy/index.html<br>
 4\) Vehicles (V). Braitenburg, V. (1984). MIT Press.<br>
 5\) Course Github Page: https://github.com/jonwillits/python_for_bcs 
@@ -15,17 +15,19 @@ Tue/Thu 330pm - 520pm
 **Instructor**<br>
 Dr. Jon A. Willits<br>
 Assistant Professor of Psychology<br> 
-University of Illinois at Urbana Champaign<br>
+University of Illinois at Urbana-Champaign<br>
 Email: jwillits@illinois.edu<br>
 Website: http://www.psychology.illinois.edu/people/jwillits<br>
 Office Location: Psychology 811<br>
-Office Hours: Thursday 330pm-430pm
+Office Hours: Thursday 230pm-330pm
 
 **Teaching Assistant**<br>
 Andrew Flores<br>
+PhD Student in Cognitive Psychology
+University of Illinois at Urbana-Champaign
 Email: azf2@illinois.edu<br>
 Office Location: Psychology 832<br>
-Office Hours: Tuesday 330pm-430pm
+Office Hours: Tuesday 230pm-330pm
 
 ## 2. Course Description and Learning Objectives
 Programming for Cognitive Science has three primary learning objectives: 
@@ -54,8 +56,14 @@ and must be completed and turned in by the following Monday at 11:59pm. Homework
 in by submitting it to your TA via the course website. Homework will be docked 10% for day it is late.
 
 **Final Project:**<br>
-The final project will involve creating a Python program that is an extension of some of the lab group work activities. You mu
-You will have a project proposal that states a research question, multiple hypotheses, and how your simulation will test those hypotheses. At the end of the quarter, you will turn in your code and a brief project report, which describes your results. For the project, you may work alone or in a group of two.
+The final project will involve creating a Python program that is an extension of some of the lab group work activities. 
+We will discuss the details later. By the end of Week 10, your group must submit a project proposal that states a 
+research question, multiple hypotheses, and how your program, analysis, or simulation will test those hypotheses. 
+At the end of the quarter, you will turn in your code and a brief project report, which describes your results.
+Your group will then present your project to the class during the final exam period.
+For the project, you may work alone or in a group. The bigger the group, the higher the expectations for your project.
+As a part of the project proposal, each group must clearly assign roles, making sure each person is contributing to different
+aspects of the project. For example, one person cannot just be in charge of the presentation, without doing any coding!
 
 ## 4. Attendance Policy
 As noted above, attendance is built into the class in terms of your participation grade,
@@ -96,8 +104,42 @@ What Programming is Good For<br>
 The Value of Simulation<br>
 Introduction to Python Basic Data Types and Expressions<br><br>
 **Readings:**<br><br>
-**Lab Assignments:**<br>
-Background Survey, Install Python 3, write some simple programs<br>
+
+PT1
+- Python Intro: https://www.w3schools.com/python/python_intro.asp
+- Python Get Started: https://www.w3schools.com/python/python_getstarted.asp
+- Python Syntax: https://www.w3schools.com/python/python_syntax.asp
+- Python Variables: https://www.w3schools.com/python/python_variables.asp
+- Python Numbers: https://www.w3schools.com/python/python_numbers.asp
+- Python Casting: https://www.w3schools.com/python/python_casting.asp
+- Python Strings: https://www.w3schools.com/python/python_strings.asp
+- Python Operators: https://www.w3schools.com/python/python_operators.asp
+
+PT2
+- The Origins of Python: https://www.python-course.eu/python3_history_and_philosophy.php
+- Starting with Python: The Interactive Shell: https://www.python-course.eu/python3_interactive.php
+- Executing a Script: https://www.python-course.eu/python3_execute_script.php
+- Indentation: https://www.python-course.eu/python3_blocks.php
+- Data Types and Variables: https://www.python-course.eu/python3_variables.php
+- Operators: https://www.python-course.eu/python3_operators.php
+
+TP
+- Chapter 1: http://interactivepython.org/runestone/static/thinkcspy/GeneralIntro/toctree.html
+- Chapter 2: http://interactivepython.org/runestone/static/thinkcspy/SimplePythonData/toctree.html
+<br>
+
+**Lab Assignments:**
+
+1-1
+- Background Survey
+- Install Python 3
+
+1-2
+- Three favorites
+- Top Musicians
+- 
+
+rite some simple programs<br>
 Due by Jan 15 at 5:20pm<br><br>
 **Homework:**<br>
 Homework 1<br>
@@ -106,46 +148,46 @@ Due by Jan 21 at 11:59pm<br><br>
 ####Week 2: 01/22 & 01/24<br>
 Info Coming Soon
 
-####Week 3
+####Week 3: 01/29 & 01/31<br>
 Info Coming Soon
 
-####Week 4
+####Week 4: 02/05 & 02/07<br>
 Info Coming Soon
 
-####Week 5
+####Week 5: 02/12 & 02/14<br>
 Info Coming Soon
 
-####Week 6
+####Week 6: 02/19 & 02/21<br>
 Info Coming Soon
 
-####Week 7
+####Week 7: 02/26 & 02/28<br>
 Info Coming Soon
 
-####Week 8
+####Week 8: 03/05 & 03/07<br>
 Info Coming Soon
 
-####Week 9
-Info Coming Soon
-
-####Week 10
+####Week 9: 03/12 & 03/07<br>
 Info Coming Soon
 
 ####Spring Break
 March 16-24
 
-####Week 11
+####Week 10: 03/26 & 03/28<br>
 Info Coming Soon
 
-####Week 12
+####Week 11: 04/02 & 04/04<br>
 Info Coming Soon
 
-####Week 13
+####Week 12: 04/09 & 04/11<br>
 Info Coming Soon
 
-####Week 14
+####Week 13: 04/16 & 04/18<br>
 Info Coming Soon
 
-####Week 15: 05/03
+####Week 14: 04/23 & 04/25<br>
+Info Coming Soon
+
+####Week 15: 04/30 & 05/02<br>
 Info Coming Soon
 
 ####Finals Exam Date: 05/03
