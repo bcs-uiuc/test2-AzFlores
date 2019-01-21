@@ -26,7 +26,7 @@ Andrew Flores<br>
 PhD Student in Cognitive Psychology
 University of Illinois at Urbana-Champaign
 Email: azf2@illinois.edu<br>
-Office Location: Psychology 832<br>
+Office Location: Psychology 830<br>
 Office Hours: Tuesday 230pm-330pm
 
 ## 2. Course Description and Learning Objectives
